@@ -1,0 +1,4 @@
+tipo,nombre,país,errores,aces,servicios,recibos,pases,fintas,ataques,bloqueos_fallidos,bloqueos_efectivos
+1,"samuel","Mexico",3,5,8,10,,,,,
+2,"Miguel","Argentina",5,9,10,,15,20,,,
+3,"Angel","GUatemala",8,10,12,,,,15,20,25
